@@ -1,0 +1,1 @@
+CloudDeploy[ListLinePlot[{-20, -40, -200, 200, -100, 160}]]
